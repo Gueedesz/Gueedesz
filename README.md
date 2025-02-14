@@ -17,7 +17,7 @@ Here are some of the techologies I've done projects with and have been learning:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-🛠️ Toosl & Others
+🛠️ Tools & Others
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,mysql)](https://skillicons.dev)
 
