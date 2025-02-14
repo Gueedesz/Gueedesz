@@ -9,7 +9,23 @@ Combine my experience in networking and past experiences to create innovative an
 ## 💻 Tech Stack
 Here are some of the techologies I've done projects with and have been learning:
 
+🌐 Front-end
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+🔧 Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+🛠️ Toosl & Others
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,mysql)](https://skillicons.dev)
+
+## 📒 Currently Studying
+
+- SAP Sac & SAP Datasphre
+- Python
+- More about SQL & others DBs
 
 <!--
 **Gueedesz/Gueedesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
